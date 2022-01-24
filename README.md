@@ -40,49 +40,49 @@ golog.Init("all", 15)
 ### Error
 
 ```go
-golog.Error("Andrea Adam")
+golog.Error("Ismail Ahmad")
 ```
 
 Output:
 
 ```sh
-2021-02-15 18:45:18 [ ERROR ] Andrea Adam
+2021-02-15 18:45:18 [ ERROR ] Ismail Ahmad
 ```
 
 ### Success
 
 ```go
-golog.Success("Andrea Adam")
+golog.Success("Ismail Ahmad")
 ```
 
 Output:
 
 ```sh
-2021-02-15 18:45:18 [ SUCCESS ] Andrea Adam
+2021-02-15 18:45:18 [ SUCCESS ] Ismail Ahmad
 ```
 
 ### Warning
 
 ```go
-golog.Warning("Andrea Adam")
+golog.Warning("Ismail Ahmad")
 ```
 
 Output:
 
 ```sh
-2021-02-15 18:45:18 [ WARNING ] Andrea Adam
+2021-02-15 18:45:18 [ WARNING ] Ismail Ahmad
 ```
 
 ### Info
 
 ```go
-golog.Info("Andrea Adam")
+golog.Info("Ismail Ahmad")
 ```
 
 Output:
 
 ```sh
-2021-02-15 18:45:18 [ INFO ] Andrea Adam
+2021-02-15 18:45:18 [ INFO ] Ismail Ahmad
 ```
 
 ## Full Example
@@ -95,7 +95,7 @@ I use [SemVer](https://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-**Andrea Adam** - [Aismail7](https://github.com/Aismail7/)
+**Ismail Ahmad** - [Aismail7](https://github.com/Aismail7/)
 
 ## License
 
